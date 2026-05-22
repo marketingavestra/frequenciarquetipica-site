@@ -12,10 +12,10 @@ function maskPhone(value) {
 }
 
 const AVATAR_PHOTOS = [
-  '/2d00a126-b5b9-46ca-8782-73eb7412fdef.jfif',
-  '/6062cfcc-b226-4285-8f4b-b21e224e8ea7.jfif',
-  '/2a3a30d8-cbbc-48b8-983e-d38a3126b3f1.jfif',
-  '/2ece979e-75f5-4abe-a226-fedd91aeae25.jfif',
+  '/2d00a126-b5b9-46ca-8782-73eb7412fdef.jpg',
+  '/6062cfcc-b226-4285-8f4b-b21e224e8ea7.jpg',
+  '/2a3a30d8-cbbc-48b8-983e-d38a3126b3f1.jpg',
+  '/2ece979e-75f5-4abe-a226-fedd91aeae25.jpg',
 ];
 
 /* ─── Mapa de arquétipos ─── */
